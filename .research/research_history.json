@@ -6,5 +6,82 @@
     "efficient language model optimization",
     "quantized LLM training",
     "gradient accumulation LLM"
+  ],
+  "research_study_list": [
+    {
+      "title": "Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training"
+    },
+    {
+      "title": "Efficient Training of Language Models using Few-Shot Learning"
+    },
+    {
+      "title": "Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning"
+    },
+    {
+      "title": "Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training"
+    },
+    {
+      "title": "Learn more, but bother less: parameter efficient continual learning"
+    },
+    {
+      "title": "Tempo: Accelerating Transformer-Based Model Training through Memory Footprint Reduction"
+    },
+    {
+      "title": "Accelerating Transformer Pre-training with 2:4 Sparsity"
+    },
+    {
+      "title": "A Multi-Level Framework for Accelerating Training Transformer Models"
+    },
+    {
+      "title": "PipeTransformer: Automated Elastic Pipelining for Distributed Training of Large-scale Models"
+    },
+    {
+      "title": "Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping"
+    },
+    {
+      "title": "Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training"
+    },
+    {
+      "title": "VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections"
+    },
+    {
+      "title": "The LLM Surgeon"
+    },
+    {
+      "title": "Efficient Training of Language Models using Few-Shot Learning"
+    },
+    {
+      "title": "Shapeshifter: a Parameter-efficient Transformer using Factorized Reshaped Matrices"
+    },
+    {
+      "title": "Intriguing Properties of Quantization at Scale"
+    },
+    {
+      "title": "QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models"
+    },
+    {
+      "title": "PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression"
+    },
+    {
+      "title": "PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression"
+    },
+    {
+      "title": "LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models"
+    },
+    {
+      "title": "Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training"
+    },
+    {
+      "title": "Towards Cheaper Inference in Deep Networks with Lower Bit-Width Accumulators"
+    },
+    {
+      "title": "VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections"
+    },
+    {
+      "title": "The Fine-Grained Complexity of Gradient Computation for Training Large Language Models"
+    },
+    {
+      "title": "ALAM: Averaged Low-Precision Activation for Memory-Efficient Training of Transformer Models"
+    }
   ]
 }
